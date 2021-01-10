@@ -10,8 +10,8 @@ import keyword
 
 #向下取整
 
-x=-7
-y=2
-z1=x/y
-z2=x//y
-print(z1,z2)
+# x=-7
+# y=2
+# z1=x/y
+# z2=x//y
+# print(z1,z2)
